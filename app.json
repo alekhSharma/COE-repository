@@ -9,12 +9,5 @@
       "quantity": 1
     }
   },
-  "addons": [
-
-  ],
-  "buildpacks": [
-    {
-      
-    }
-  ]
+  
 }
